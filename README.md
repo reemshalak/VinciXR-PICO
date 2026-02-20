@@ -1,8 +1,21 @@
 # 🎨 VinciXR
 
+<p align="center">
+  <a href="YOUR_VIDEO_LINK_HERE">
+    <img src="https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg" alt="VinciXR Demo Video" width="800"/>
+  </a>
+</p>
+
+<p align="center">
+  <b>▶ Watch the Demo</b>
+</p>
+
 > Learn to draw in Mixed Reality.  
 > Turn sketches into 3D.  
 > Bring your art to life.
+
+---
+
 
 VinciXR is a Mixed Reality (MR) drawing assistant built for the **Pico headset** during XR Bootcamp.
 
