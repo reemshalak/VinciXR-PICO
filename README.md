@@ -1,8 +1,8 @@
 # 🎨 VinciXR
 
 <p align="center">
-  <a href="https://youtube.com/shorts/uzHMoSY8HwM">
-    <img src="https://img.youtube.com/vi/uzHMoSY8HwM/0.jpg" alt="VinciXR Demo Video" width="800"/>
+  <a href="https://www.youtube.com/watch?v=uzHMoSY8HwM">
+    <img src="https://img.youtube.com/vi/uzHMoSY8HwM/maxresdefault.jpg" width="800"/>
   </a>
 </p>
 
