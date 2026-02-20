@@ -14,7 +14,7 @@
 > Turn sketches into 3D.  
 > Bring your art to life.
 
----
+
 
 
 VinciXR is a Mixed Reality (MR) drawing assistant built for the **Pico headset** during XR Bootcamp.
