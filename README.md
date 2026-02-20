@@ -23,8 +23,6 @@ It helps users learn how to draw by projecting sketch guides into their real-wor
 
 Built in **4 days** using only free tools and APIs.
 
----
-
 ## 🚀 Features
 
 - 🖍️ Image-to-sketch conversion
