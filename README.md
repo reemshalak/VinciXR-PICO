@@ -1,8 +1,8 @@
 # 🎨 VinciXR
 
 <p align="center">
-  <a href="YOUR_VIDEO_LINK_HERE">
-    <img src="https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg" alt="VinciXR Demo Video" width="800"/>
+  <a href="https://youtube.com/shorts/uzHMoSY8HwM">
+    <img src="https://img.youtube.com/vi/uzHMoSY8HwM/0.jpg" alt="VinciXR Demo Video" width="800"/>
   </a>
 </p>
 
@@ -34,7 +34,6 @@ Built in **4 days** using only free tools and APIs.
 - 🌍 GLB model loading in Mixed Reality
 - 🎯 Real-world sketch guidance
 
----
 
 ## 🛠 Tech Stack
 
@@ -49,7 +48,6 @@ Built in **4 days** using only free tools and APIs.
 - **UnityGLTF** – GLB Loading
 - Custom Unity Shader – Background removal
 
----
 
 ## 🧠 How It Works
 
@@ -60,7 +58,7 @@ Built in **4 days** using only free tools and APIs.
 5. Generate a 3D model
 6. Load and display the model in MR
 
----
+
 
 ## 🔮 Roadmap
 
@@ -69,14 +67,12 @@ Built in **4 days** using only free tools and APIs.
 - [ ] Real-time drawing suggestions
 - [ ] Persistent spatial art (see previous drawings in your space)
 
----
 
 ## 📦 Project Status
 
 🚧 Prototype – XR Bootcamp  
 Actively under development.
 
----
 
 ## 💡 Vision
 
@@ -88,7 +84,6 @@ VinciXR aims to make learning art:
 
 If this is what’s possible in 4 days with free tools — imagine what’s next.
 
----
 
 ## 🤝 Contributing
 
